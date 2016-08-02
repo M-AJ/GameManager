@@ -1,0 +1,5 @@
+name: GameManager
+main: me.aj.gm.GameManager
+description: The Game Manager Plugin for all minigames!
+author: AJ-M
+version: 1.0

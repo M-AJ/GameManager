@@ -1,0 +1,10 @@
+lobbySpawn: lochere
+center: locHere
+map: RandomMap
+gameName: SPEED UHC
+borderRadius: 50
+maxRadius: 10
+playerSpawns:
+- loc1
+- loc2
+- etc
